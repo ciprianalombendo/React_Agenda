@@ -50,7 +50,7 @@ const App = () => {
           }
         },
         {
-          label: 'Não',
+          label: 'NÃO',
         }
       ]
     });
@@ -116,7 +116,7 @@ const App = () => {
               e.preventDefault()
               eliminar(contacto)
             }}>
-              <i className="fas fa-trash-alt mr-1"></i>Eliminar</a>
+              <i className="fas fa-trash-alt mr-1"></i>Excluir</a>
           </td>
         </tr>
       ))
@@ -136,11 +136,12 @@ const App = () => {
             <table className="table table-bordered">
               <thead>
                 <tr>
+                   <th scope="col">Id</th>
                   <th scope="col">Nome</th>
                   <th scope="col">Sobrenome</th>
                   <th scope="col">Telefone</th>
                   <th scope="col">Editar</th>
-                  <th scope="col">Eliminar</th>
+                  <th scope="col">Excluir</th>
                 </tr>
               </thead>
               <tbody>

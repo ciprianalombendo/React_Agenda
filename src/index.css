@@ -72,11 +72,11 @@ table td{
 }
 
 .btn-eliminar{
-  color: palevioletred !important
+  color: red !important;
 }
 
 .busca-invalida{
-  color: palevioletred;
+  color: red !important;
   text-align: center;
   font-weight: bold;
 }

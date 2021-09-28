@@ -54,7 +54,7 @@ const EditarContacto = ({ name, saveName, lastName, saveLastName, phone, savePho
         return (
             <div className="col-lg-12 mt-3 alerta-add">
                 <div className="alert alert-success" role="alert">
-                    <h4 className="alert-heading">¡Contacto editado corretamente!</h4>
+                    <h4 className="alert-heading">Contacto editado corretamente!</h4>
                 </div>
             </div>
         )   
