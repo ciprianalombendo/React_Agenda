@@ -1,0 +1,22 @@
+{
+  "contactos": [
+    {
+      "nome": "John Doe",
+      "email": "john@doe.email",
+      "telefone": "1111-1111",
+      "id": 1
+    },
+    {
+      "nome": "Foo Bar",
+      "email": "john@doe.email",
+      "telefone": "2222-2222",
+      "id": 2
+    },
+    {
+      "nome": "cipriana",
+      "email": "ciprianaluis.gmail.com",
+      "telefone": "11949570189",
+      "id": "11949570189"
+    }
+  ]
+}
